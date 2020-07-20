@@ -1,26 +1,27 @@
-# Code Quiz
 
+# Code Quiz
 None
 bombichino
 Code Quiz
 
+
 ## Project Description
 
-It's a javascript code quiz I made early on in the boot camp
+It's a javascript quiz that I wrote early on in boot camp.
 
-## Table of Contents
+## Table of Contents 
 
-- [#Installation]
+* [#Installation]
 
-- [#Usage]
+* [#Usage]
 
-- [#License]
+* [#License]
 
-- [#Contributing]
+* [#Contributing]
 
-- [#Tests]
+* [#Tests]
 
-- [#Questions]
+* [#Questions]
 
 ## Installation
 
@@ -31,21 +32,24 @@ npm i
 ## Usage
 
 |
-Nope! Have fun.
+nope!
 |
 
+
+  
 ## Contributing
 
-Email me first before contributing.
+Please email me before contributing.
 
 ## Tests
 
 To run tests, run the following command:
 
 |
-npm test
+npm tests
 |
 
 ## Questions
 
 If you have any questions, please reach out directly at nick.bombicino@gmail.com
+
